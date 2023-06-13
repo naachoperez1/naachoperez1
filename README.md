@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @naachoperez1, Junior Backend developer and I also play professional basketball!🏀🏀.
-- 💻Stack: Python/Flask, SQL, HTML, CSS, Javascript.
+- 💻 Stack: Python/Flask, SQL, HTML, CSS, Javascript.
 - 🌱 I’m currently learning API development and Java.
-- 💞️ I’m looking to learn how experienced people code so I can get my first IT job!
-- 📫 How to reach me: https://www.linkedin.com/in/ignacio-perez-4867ab214?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByZh0TY64SM6oO0xJcdA6uQ%3D%3D
+- 💞️ I’m looking to learn how experienced people code and dive deeper in the software world!
+- 📫 Linkedin: https://www.linkedin.com/in/ignacio-perez-4867ab214/
+- 📫 Twitter : https://twitter.com/naachoperez11
 
 <!---
 naachoperez1/naachoperez1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
