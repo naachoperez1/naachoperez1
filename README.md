@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naachoperez1, Junior Backend developer and I also play professional basketball!🏀🏀.
 - 💻 Stack: Java/Spring, Python/Flask, MySQL, PostgreSQL, HTML, CSS, Javascript.
-- 🌱 I’m currently learning REST API development and Spring framework.
+- 🌱 Currently learning some frontend skills. 
 - 💞️ I’m looking to learn how experienced people code and dive deeper in the software world!
 - 📫 Linkedin: https://www.linkedin.com/in/ignacio-perez-4867ab214/
 - 📫 Twitter : https://twitter.com/naachoperez11
